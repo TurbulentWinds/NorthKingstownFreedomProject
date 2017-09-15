@@ -1,4 +1,5 @@
 # NorthKingstownFreedomProject
+<<<<<<< HEAD
 
 COMPLETE:
 Added background page
@@ -15,3 +16,5 @@ Better CSS
 Website tracking
 Google ads
 
+=======
+>>>>>>> 43949e61dae7dc096330b7720a0ce7cff02258a7
